@@ -1,6 +1,7 @@
 crewai==0.75
 crewai_tools==0.12.1
 streamlit==1.31.0
+numpy==2.1.0
 pandas==2.1.0
 PyYAML==6.0.2
 pydantic==1.10
